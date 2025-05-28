@@ -1,0 +1,30 @@
+# Overview
+
+{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+
+{The assignment is a gallery that is interactable, in this case, the gallery is interactable because it has modals and lightboxes whenever you click an image, it also has scaleable images, I did this with CSS.}
+
+{I had a couple of things that I wanted to do with this software, for one, I had this assignment in a previous class that I failed, getting it done would be awesome for that assignment, when I redo the class in the future, the other reason that I chose to do this assignment was because I wanted to learn more on click events, CSS, and building elements within HTML.}
+
+[Software Demo Video](https://www.youtube.com/watch?v=KonlUg-qkxo)
+
+# Development Environment
+
+{I used quite a few things to figure out how to get it to work properly, I had the bones of the HTML and CSS done previously, however I was able to complete it now. I used: youtube videos, stack overflow, W3 Schools, and AI to help show me some ways that an interactive gallery could be done. (again, did not use AI to fully complete the assignment, just helped me get started)}
+
+{I used JS. the language is a very visual one, as it is primarily used with HTML, at least from my experience. I had seen other people use lots of lines of codes, and other libraries, but I was able to get the lightbox, and other things doner in only a couple of lines of code.}
+
+# Useful Websites
+
+{Make a list of websites that you found helpful in this project}
+
+- [Gemini (for giving me ideas)](https://gemini.google.com/app)
+- [W3 Schools](https://www.w3schools.com/howto/howto_js_lightbox.asp)
+
+# Future Work
+
+{Make a list of things that you need to fix, improve, and add in the future.}
+
+- Item 1
+- Item 2
+- Item 3
